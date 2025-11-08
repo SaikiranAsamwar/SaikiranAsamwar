@@ -65,7 +65,7 @@ I specialize in **cloud automation, CI/CD pipeline design, and infrastructure ma
 ## 🌍 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saikiran-asamwar/" target="_blank">
+  <a href="https://www.linkedin.com/in/saikiran-asamwar/" target="blank">
     <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -73,7 +73,7 @@ I specialize in **cloud automation, CI/CD pipeline design, and infrastructure ma
     <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" width="40" height="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SaikiranAsamwar" target="_blank">
+  <a href="https://github.com/SaikiranAsamwar" target="blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
