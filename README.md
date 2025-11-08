@@ -32,21 +32,22 @@ I specialize in **cloud automation, CI/CD pipeline design, and infrastructure ma
 
 ## 📦 Featured Projects  
 
-🔹 **AWS CI/CD Pipeline Automation**  
-*Automated end-to-end deployment pipeline using Jenkins, Terraform, and Docker for AWS EC2 instances.*  
-[🔗 View Repository](#)  
+🔹 **Insured – Web App Deployment using AWS Elastic Beanstalk and RDS**  
+*Deployed a web-based insurance management application using AWS Elastic Beanstalk integrated with AWS RDS (MySQL). Configured VPC for secure subnet communication, implemented an Application Load Balancer, and enabled performance monitoring through Amazon CloudWatch.*  
+[🔗 View on GitHub](https://github.com/SaikiranAsamwar/Insured-usingAWS-Elastic-BeanStalk-and-AWS-RDS)  
 
-🔹 **Terraform AWS Infrastructure Setup**  
-*Provisioned complete AWS infrastructure (VPC, EC2, RDS, and IAM roles) using Infrastructure as Code.*  
-[🔗 View Repository](#)  
+---
 
-🔹 **Kubernetes Deployment on AWS EKS**  
-*Containerized and deployed a scalable microservices application using EKS and Helm charts.*  
-[🔗 View Repository](#)  
+🔹 **QuickLoan – Loan Management Web App using AWS Auto Scaling**  
+*Built a cloud-based loan management web app using PHP and AWS services. Configured EC2, RDS (MySQL), Auto Scaling Group, and Application Load Balancer within a custom VPC for scalability and high availability. Implemented monitoring and fault tolerance through Amazon CloudWatch and health checks.*  
+[🔗 View on GitHub](https://github.com/SaikiranAsamwar/QuickLoan-using-AWS-AutoScaling)  
 
-🔹 **CloudWatch Monitoring Dashboard**  
-*Implemented custom metrics and alerts for EC2 instances and application logs using AWS CloudWatch.*  
-[🔗 View Repository](#)  
+---
+
+🔹 **Serverless Student Management System using AWS Lambda and DynamoDB**  
+*Developed a fully serverless student data management system using AWS Lambda, API Gateway, and DynamoDB. Integrated AWS Cognito for authentication and utilized Global Secondary Indexes (GSI) to optimize query performance. Achieved seamless scaling and zero maintenance with event-driven architecture.*  
+[🔗 View on GitHub](https://github.com/SaikiranAsamwar/Serverless-Student-Management-System-using-AWS)  
+
 
 ---
 
@@ -61,17 +62,26 @@ I specialize in **cloud automation, CI/CD pipeline design, and infrastructure ma
 
 ## 🌍 Connect with Me  
 
-<p align="left">
+## 🌍 Connect with Me  
+
+<p align="center">
   <a href="https://www.linkedin.com/in/saikiran-asamwar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Saikiran%20Asamwar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:saikiranasamwar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:saikiran.asamwar@example.com">
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" width="40" height="40" alt="Email"/>
   </a>
-  <a href="https://github.com/SaikiranAsamwar">
-    <img src="https://img.shields.io/badge/GitHub-SaikiranAsamwar-black?style=for-the-badge&logo=github" alt="GitHub" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/SaikiranAsamwar" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saikiran-asamwar/">linkedin.com/in/saikiran-asamwar</a>
+</p>
+
 
 ---
 
