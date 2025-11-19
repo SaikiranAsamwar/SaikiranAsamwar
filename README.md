@@ -85,5 +85,17 @@ I specialize in **cloud automation, CI/CD pipeline design, and infrastructure ma
 
 ---
 
+## 👨‍💻 Author
+
+**Saikiran Rajesh Asamwar**  
+Certified AWS DevOps Engineer
+
+- 🌐 GitHub: [@SaikiranAsamwar](https://github.com/SaikiranAsamwar)
+- <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="20"/> Docker Hub: [saikiranasamwar4](https://hub.docker.com/u/saikiranasamwar4)
+- 💼 LinkedIn: [Saikiran Asamwar](https://www.linkedin.com/in/saikiran-asamwar/)
+- 📧 Email: saikiranasamwar@gmail.com
+
+
+
 ### ⚡ “Automating the Cloud. Scaling with Confidence.”  
 
