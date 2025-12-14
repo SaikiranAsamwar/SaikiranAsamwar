@@ -1,80 +1,92 @@
- # 👋 Hi there, I'm Saikiran Rajesh Asamwar  
+# 👋 Hi there, I'm Saikiran Rajesh Asamwar  
 
-### 🚀 AWS DevOps Engineer | Cloud Automation | CI/CD | Infrastructure as Code  
+### 🚀 AWS Solutions Architect - Associate | DevOps Engineer | Cloud Architecture | CI/CD | IaC  
 
-I’m a **B.Tech graduate in Electronics and Telecommunication Engineering (2025)** and an **AWS DevOps Engineer** passionate about automating, optimizing, and scaling modern cloud infrastructures.  
+I’m a **B.Tech graduate in Electronics and Telecommunication Engineering (2025)** and an **AWS-certified cloud professional** with strong expertise in **designing secure, scalable, and highly available architectures on AWS**.  
 
-I specialize in **cloud automation, CI/CD pipeline design, and infrastructure management** using leading AWS services and DevOps tools to deliver reliable and cost-efficient solutions.  
+I specialize in **AWS solution design, cloud automation, CI/CD pipelines, and infrastructure as code**, ensuring reliability, security, performance, and cost optimization across cloud environments.
 
 ---
 
 ## 🧠 About Me  
 
-- 💡 I focus on building **scalable and automated cloud environments** using AWS.  
-- ⚙️ Experienced with **Docker, Kubernetes, Jenkins, Terraform, and GitHub Actions**.  
-- ☁️ Skilled in **AWS EC2, S3, IAM, RDS, VPC, and CloudWatch** for secure, efficient deployments.  
-- 🔁 I implement end-to-end **CI/CD pipelines** for seamless and consistent delivery.  
-- 📈 Passionate about **monitoring, automation, and continuous improvement** in DevOps workflows.  
-- 🎯 Seeking **AWS / DevOps Engineer** roles to apply my expertise and contribute to impactful cloud projects.  
+- 🏗️ Design **well-architected AWS solutions** following AWS Well-Architected Framework pillars.  
+- ☁️ Strong hands-on experience with **AWS compute, storage, networking, and security services**.  
+- ⚙️ Experienced in **Docker, Kubernetes, Jenkins, Terraform, and GitHub Actions** for automation.  
+- 🔐 Implement **IAM, VPC isolation, security groups, and least-privilege access** models.  
+- 🔁 Build **end-to-end CI/CD pipelines** for consistent and automated deployments.  
+- 📊 Focused on **monitoring, logging, fault tolerance, and high availability** using AWS-native tools.  
+- 🎯 Actively seeking **AWS Solutions Architect / DevOps Engineer** roles.
+
+---
+
+## 🏅 AWS Certification  
+
+[![AWS Training Badge](https://images.credly.com/size/150x150/images/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/37a40931-19b3-4c18-8d6a-31e74795d0ea/public_url)
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Cloud:** AWS (EC2, S3, IAM, RDS, VPC, CloudWatch)  
-**DevOps Tools:** Docker | Kubernetes | Jenkins | Terraform | GitHub Actions | Ansible  
-**Languages:** Bash | Python | YAML | JSON  
-**Version Control:** Git, GitHub  
-**CI/CD:** Jenkins Pipelines | GitHub Actions  
-**Monitoring:** AWS CloudWatch | Prometheus | Grafana  
+**Cloud & Architecture:**  
+AWS EC2 | S3 | IAM | RDS | VPC | ELB | Auto Scaling | CloudWatch | ECR | EKS  
+
+**DevOps & Automation:**  
+Docker | Kubernetes | Jenkins | Terraform | GitHub Actions | Ansible  
+
+**Languages & Scripting:**  
+Bash | Python | Java | YAML | JSON  
+
+**CI/CD:**  
+Jenkins Pipelines | GitHub Actions  
+
+**Monitoring & Logging:**  
+AWS CloudWatch | Prometheus | Grafana  
 
 ---
 
-## 📦 Featured Projects  
+## 📦 Featured Architecture & DevOps Projects  
 
-🔹 **Insured – Web App Deployment using AWS Elastic Beanstalk and RDS**  
-*Deployed a web-based insurance management application using AWS Elastic Beanstalk integrated with AWS RDS (MySQL). Configured VPC for secure subnet communication, implemented an Application Load Balancer, and enabled performance monitoring through Amazon CloudWatch.*  
-[🔗 View on GitHub](https://github.com/SaikiranAsamwar/Insured-usingAWS-Elastic-BeanStalk-and-AWS-RDS)  
-
----
-
-🔹 **QuickLoan – Loan Management Web App using AWS Auto Scaling**  
-*Built a cloud-based loan management web app using PHP and AWS services. Configured EC2, RDS (MySQL), Auto Scaling Group, and Application Load Balancer within a custom VPC for scalability and high availability. Implemented monitoring and fault tolerance through Amazon CloudWatch and health checks.*  
-[🔗 View on GitHub](https://github.com/SaikiranAsamwar/QuickLoan-using-AWS-AutoScaling)  
+🔹 **Node.js Media Compressor – AWS DevOps & Kubernetes Deployment**  
+*Designed and deployed a production-grade Node.js application using Docker and Kubernetes on AWS. Implemented CI/CD pipelines, containerized workloads, and automated deployments with Jenkins and Terraform. Focused on scalability, fault tolerance, and observability.*  
+[🔗 View on GitHub](https://github.com/SaikiranAsamwar/Node.js-Media-Compressor-Devops.git)  
 
 ---
 
-🔹 **Serverless Student Management System using AWS Lambda and DynamoDB**  
-*Developed a fully serverless student data management system using AWS Lambda, API Gateway, and DynamoDB. Integrated AWS Cognito for authentication and utilized Global Secondary Indexes (GSI) to optimize query performance. Achieved seamless scaling and zero maintenance with event-driven architecture.*  
-[🔗 View on GitHub](https://github.com/SaikiranAsamwar/Serverless-Student-Management-System-using-AWS)  
+🔹 **Python Task Manager – Cloud-Native DevOps Project**  
+*Built and deployed a Python-based task management application using Docker and AWS services. Implemented CI/CD automation, infrastructure provisioning using Terraform, and monitoring with CloudWatch and Prometheus. Emphasized reliability and clean deployment workflows.*  
+[🔗 View on GitHub](https://github.com/SaikiranAsamwar/Python-Task-Manager-DevOps.git)  
 
+---
+
+🔹 **ShopNow – Java Microservices DevOps Deployment on AWS**  
+*Deployed a Java-based e-commerce application using containerization and CI/CD pipelines. Integrated AWS services for compute, networking, and monitoring, ensuring high availability, scalability, and secure communication between components.*  
+[🔗 View on GitHub](https://github.com/SaikiranAsamwar/java-ShopNow-DevOps.git)  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaikiranAsamwar&show_icons=true&theme=tokyonight" alt="Saikiran's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaikiranAsamwar&theme=tokyonight" alt="Saikiran's GitHub streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaikiranAsamwar&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaikiranAsamwar&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
 ## 🌍 Connect with Me  
 
-## 🌍 Connect with Me  
-
 <p align="center">
   <a href="https://www.linkedin.com/in/saikiran-asamwar/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:saikiran.asamwar@example.com">
-    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" width="40" height="40" alt="Email"/>
+  <a href="mailto:saikiranasamwar@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/SaikiranAsamwar" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" height="40" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40"/>
   </a>
 </p>
 
@@ -82,20 +94,18 @@ I specialize in **cloud automation, CI/CD pipeline design, and infrastructure ma
   <a href="https://www.linkedin.com/in/saikiran-asamwar/">linkedin.com/in/saikiran-asamwar</a>
 </p>
 
+---
+
+## 👨‍💻 Author  
+
+**Saikiran Rajesh Asamwar**  
+AWS Certified Solutions Architect – Associate | DevOps Engineer  
+
+- 🌐 GitHub: [@SaikiranAsamwar](https://github.com/SaikiranAsamwar)  
+- 🐳 Docker Hub: [saikiranasamwar4](https://hub.docker.com/u/saikiranasamwar4)  
+- 💼 LinkedIn: [Saikiran Asamwar](https://www.linkedin.com/in/saikiran-asamwar/)  
+- 📧 Email: saikiranasamwar@gmail.com  
 
 ---
 
-## 👨‍💻 Author
-
-**Saikiran Rajesh Asamwar**  
-Certified AWS DevOps Engineer
-
-- 🌐 GitHub: [@SaikiranAsamwar](https://github.com/SaikiranAsamwar)
-- <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="20"/> Docker Hub: [saikiranasamwar4](https://hub.docker.com/u/saikiranasamwar4)
-- 💼 LinkedIn: [Saikiran Asamwar](https://www.linkedin.com/in/saikiran-asamwar/)
-- 📧 Email: saikiranasamwar@gmail.com
-
-
-
-### ⚡ “Automating the Cloud. Scaling with Confidence.”  
-
+### ⚡ “Designing Secure, Scalable, and Cost-Optimized AWS Solutions.”  
