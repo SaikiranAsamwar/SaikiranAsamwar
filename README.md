@@ -78,20 +78,16 @@ AWS CloudWatch | Prometheus | Grafana
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saikiran-asamwar/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:saikiranasamwar@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" width="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/SaikiranAsamwar" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" alt="GitHub"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saikiran-asamwar/">linkedin.com/in/saikiran-asamwar</a>
 </p>
 
 ---
