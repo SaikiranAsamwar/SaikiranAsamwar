@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Saikiran Rajesh Asamwar  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AWS+Certified+Solutions+Architect+Associate;DevOps+Engineer;Cloud+Architecture+%7C+CI%2FCD+%7C+IaC;Designing+Scalable+AWS+Solutions&center=true&width=750&height=45&color=70A5FD&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AWS+Certified+Solutions+Architect+-+Associate;DevOps+Engineer;Cloud+Architecture+%7C+CI%2FCD+%7C+IaC;Designing+Scalable+AWS+Solutions&center=true&width=750&height=45&color=70A5FD&vCenter=true&pause=1000" />
 </p>
 
 ### 🚀 AWS Certified Solutions Architect – Associate | DevOps Engineer | Cloud Architecture | CI/CD | IaC  
