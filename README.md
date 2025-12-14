@@ -1,5 +1,9 @@
 # 👋 Hi there, I'm Saikiran Rajesh Asamwar  
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AWS+Certified+Solutions+Architect+Associate;DevOps+Engineer;Cloud+Architecture+%7C+CI%2FCD+%7C+IaC;Designing+Scalable+AWS+Solutions&center=true&width=750&height=45&color=70A5FD&vCenter=true&pause=1000" />
+</p>
+
 ### 🚀 AWS Certified Solutions Architect – Associate | DevOps Engineer | Cloud Architecture | CI/CD | IaC  
 
 I’m a **B.Tech graduate in Electronics and Telecommunication Engineering (2025)** and an **AWS Certified Solutions Architect – Associate** with hands-on experience in designing, deploying, and automating **secure, scalable, and highly available cloud architectures on AWS**.
@@ -30,10 +34,13 @@ I specialize in **AWS solution design, DevOps automation, CI/CD pipelines, and I
   </a>
 </p>
 
-
 ---
 
 ## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,python,java,bash&theme=dark" />
+</p>
 
 **Cloud & Architecture**  
 AWS EC2 | S3 | IAM | RDS | VPC | ELB | Auto Scaling | CloudWatch | ECR | EKS  
@@ -75,8 +82,12 @@ AWS CloudWatch | Prometheus | Grafana
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaikiranAsamwar&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaikiranAsamwar&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaikiranAsamwar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaikiranAsamwar&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaikiranAsamwar&theme=tokyo-night&hide_border=true" width="98%" />
 </p>
 
 ---
@@ -85,15 +96,15 @@ AWS CloudWatch | Prometheus | Grafana
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saikiran-asamwar/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:saikiranasamwar@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" width="40" alt="Email"/>
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/SaikiranAsamwar" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40"/>
   </a>
 </p>
 
@@ -112,3 +123,5 @@ AWS Certified Solutions Architect – Associate | DevOps Engineer
 ---
 
 ### ⚡ “Designing Secure, Scalable, and Cost-Optimized AWS Solutions.”  
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:1A1B27,100:70A5FD&height=120&section=footer" />
