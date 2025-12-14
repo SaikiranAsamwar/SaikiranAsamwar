@@ -1,67 +1,73 @@
 # 👋 Hi there, I'm Saikiran Rajesh Asamwar  
 
-### 🚀 AWS Solutions Architect - Associate | DevOps Engineer | Cloud Architecture | CI/CD | IaC  
+### 🚀 AWS Certified Solutions Architect – Associate | DevOps Engineer | Cloud Architecture | CI/CD | IaC  
 
-I’m a **B.Tech graduate in Electronics and Telecommunication Engineering (2025)** and an **AWS-certified cloud professional** with strong expertise in **designing secure, scalable, and highly available architectures on AWS**.  
+I’m a **B.Tech graduate in Electronics and Telecommunication Engineering (2025)** and an **AWS Certified Solutions Architect – Associate** with hands-on experience in designing, deploying, and automating **secure, scalable, and highly available cloud architectures on AWS**.
 
-I specialize in **AWS solution design, cloud automation, CI/CD pipelines, and infrastructure as code**, ensuring reliability, security, performance, and cost optimization across cloud environments.
+I specialize in **AWS solution design, DevOps automation, CI/CD pipelines, and Infrastructure as Code**, ensuring systems are reliable, fault-tolerant, and cost-optimized.
 
 ---
 
 ## 🧠 About Me  
 
-- 🏗️ Design **well-architected AWS solutions** following AWS Well-Architected Framework pillars.  
-- ☁️ Strong hands-on experience with **AWS compute, storage, networking, and security services**.  
-- ⚙️ Experienced in **Docker, Kubernetes, Jenkins, Terraform, and GitHub Actions** for automation.  
-- 🔐 Implement **IAM, VPC isolation, security groups, and least-privilege access** models.  
-- 🔁 Build **end-to-end CI/CD pipelines** for consistent and automated deployments.  
-- 📊 Focused on **monitoring, logging, fault tolerance, and high availability** using AWS-native tools.  
-- 🎯 Actively seeking **AWS Solutions Architect / DevOps Engineer** roles.
+- 🏗️ Design **AWS Well-Architected** solutions following best practices  
+- ☁️ Strong hands-on experience with **AWS compute, storage, networking, and security services**  
+- ⚙️ Experienced in **Docker, Kubernetes, Jenkins, Terraform, and GitHub Actions**  
+- 🔐 Implement **IAM least-privilege access, VPC isolation, and security best practices**  
+- 🔁 Build **end-to-end CI/CD pipelines** for automated and consistent deployments  
+- 📊 Focus on **monitoring, logging, scalability, and high availability**  
+- 🎯 Actively seeking **AWS Solutions Architect / DevOps Engineer** roles  
 
 ---
 
 ## 🏅 AWS Certification  
 
-[![AWS Training Badge](https://images.credly.com/size/150x150/images/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/37a40931-19b3-4c18-8d6a-31e74795d0ea/public_url)
+<p align="center">
+  <a href="https://www.credly.com/badges/37a40931-19b3-4c18-8d6a-31e74795d0ea/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/aws-certified-solutions-architect-associate.png"
+         alt="AWS Certified Solutions Architect – Associate"
+         width="180"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Cloud & Architecture:**  
+**Cloud & Architecture**  
 AWS EC2 | S3 | IAM | RDS | VPC | ELB | Auto Scaling | CloudWatch | ECR | EKS  
 
-**DevOps & Automation:**  
+**DevOps & Automation**  
 Docker | Kubernetes | Jenkins | Terraform | GitHub Actions | Ansible  
 
-**Languages & Scripting:**  
+**Languages & Scripting**  
 Bash | Python | Java | YAML | JSON  
 
-**CI/CD:**  
+**CI/CD**  
 Jenkins Pipelines | GitHub Actions  
 
-**Monitoring & Logging:**  
+**Monitoring & Observability**  
 AWS CloudWatch | Prometheus | Grafana  
 
 ---
 
 ## 📦 Featured Architecture & DevOps Projects  
 
-🔹 **Node.js Media Compressor – AWS DevOps & Kubernetes Deployment**  
-*Designed and deployed a production-grade Node.js application using Docker and Kubernetes on AWS. Implemented CI/CD pipelines, containerized workloads, and automated deployments with Jenkins and Terraform. Focused on scalability, fault tolerance, and observability.*  
-[🔗 View on GitHub](https://github.com/SaikiranAsamwar/Node.js-Media-Compressor-Devops.git)  
+### 🔹 Node.js Media Compressor – AWS DevOps Project  
+*Designed and deployed a production-ready Node.js application using Docker and Kubernetes on AWS. Implemented CI/CD pipelines with Jenkins, container orchestration, and infrastructure provisioning using Terraform. Focused on scalability, fault tolerance, and observability.*  
+🔗 **GitHub:** https://github.com/SaikiranAsamwar/Node.js-Media-Compressor-Devops.git  
 
 ---
 
-🔹 **Python Task Manager – Cloud-Native DevOps Project**  
-*Built and deployed a Python-based task management application using Docker and AWS services. Implemented CI/CD automation, infrastructure provisioning using Terraform, and monitoring with CloudWatch and Prometheus. Emphasized reliability and clean deployment workflows.*  
-[🔗 View on GitHub](https://github.com/SaikiranAsamwar/Python-Task-Manager-DevOps.git)  
+### 🔹 Python Task Manager – Cloud-Native DevOps Application  
+*Built and deployed a Python-based task management application with Docker and AWS services. Automated infrastructure and deployments, implemented CI/CD pipelines, and added monitoring using CloudWatch and Prometheus.*  
+🔗 **GitHub:** https://github.com/SaikiranAsamwar/Python-Task-Manager-DevOps.git  
 
 ---
 
-🔹 **ShopNow – Java Microservices DevOps Deployment on AWS**  
-*Deployed a Java-based e-commerce application using containerization and CI/CD pipelines. Integrated AWS services for compute, networking, and monitoring, ensuring high availability, scalability, and secure communication between components.*  
-[🔗 View on GitHub](https://github.com/SaikiranAsamwar/java-ShopNow-DevOps.git)  
+### 🔹 ShopNow – Java E-Commerce DevOps Deployment  
+*Deployed a Java-based e-commerce application using containerization and CI/CD pipelines. Integrated AWS services for compute, networking, and monitoring, ensuring high availability, scalability, and secure service communication.*  
+🔗 **GitHub:** https://github.com/SaikiranAsamwar/java-ShopNow-DevOps.git  
 
 ---
 
