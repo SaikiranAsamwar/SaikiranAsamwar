@@ -24,11 +24,12 @@ I specialize in **AWS solution design, DevOps automation, CI/CD pipelines, and I
 
 <p align="center">
   <a href="https://www.credly.com/badges/37a40931-19b3-4c18-8d6a-31e74795d0ea/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/aws-certified-solutions-architect-associate.png"
+    <img src="./assets/aws-certified-solutions-architect-associate.png"
          alt="AWS Certified Solutions Architect – Associate"
          width="180"/>
   </a>
 </p>
+
 
 ---
 
